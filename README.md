@@ -5,4 +5,4 @@
 
 Um efeito parallax de rolagem, feito em HTML, CSS e JavaScript. Esse efeito consiste em ao fazer a rolagem do scroll alguns componetes irão se move, gerando um efeito especial ao executar esse evento.
 
-
+![](https://github.com/CristianoDaSilvaFerreira/Parrallax-Scrolling/blob/main/parallax-scroll.gif)
